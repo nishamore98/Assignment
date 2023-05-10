@@ -32,12 +32,12 @@ const Filters = () => {
   }
 
   // useEffect(() => {
-    // const timeoutId = setTimeout(() => {
-      // setDebouncedValue(value);
-      // console.log('hel');
-    // }, 300);
+  // const timeoutId = setTimeout(() => {
+  // setDebouncedValue(value);
+  // console.log('hel');
+  // }, 300);
 
-    // return () => clearTimeout(timeoutId);
+  // return () => clearTimeout(timeoutId);
   // }, [searchTerm]);
 
   function hendelOnChange(e) {
